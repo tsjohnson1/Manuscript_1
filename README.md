@@ -1,7 +1,7 @@
 # Western U.S. Wildfire Burn Severity Analysis (1984–2024)
 
 This repository contains Python scripts and supporting results for a manuscript examining spatial and temporal patterns in moderate- and high-severity wildfire across the western United States.
-
+ 
 The study uses Monitoring Trends in Burn Severity (MTBS) wildfire data and gridMET hydroclimatic variables to investigate regional changes in burn severity, identify dominant predictors using Random Forest regression, and evaluate changes in hydroclimatic conditions between 1984–2003 and 2004–2024.
 
 ## Repository Structure
